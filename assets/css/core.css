@@ -12,7 +12,7 @@ h1 {
 }
 
 h2 {
-  color: #e0e0e0;
+  color: #7151c4;
 }
 
 ul {    color: #b0b0b0;
@@ -41,7 +41,7 @@ p {
     padding: 12px 12px;
     transition: 0.3s;
     font-size: 0.75em;
-    color: #ffaa00;
+    color: #7151c4;
 }
 
 .tab button:hover {
@@ -52,7 +52,7 @@ p {
     display: none;
     animation: fadeEffect 320ms;
     border-top: none;
-    color: #ffaa00;
+    color: #7151c4;
 }
 
 @keyframes fadeEffect {
@@ -69,7 +69,7 @@ p {
     width: 100%;
     background-color: #1c191a;
     font-size: 16px;
-    color: #ffaa00;
+    color: #7151c4;
     padding: 12px 20px 12px 40px;
     border: 1px solid #454545;
     margin-bottom: 12px;
@@ -88,8 +88,8 @@ table tbody tr:hover {
 
 th {
   font-size: 0.9em;
-  color: #e09000;
-  border: 1px solid rgba(200,100,0,0.3);
+  color: #7151c4;
+  border: 1px solid rgba(169,140,245,0.3);
 }
 
 th.priceWithData {
@@ -113,7 +113,7 @@ th.version {
 }
 
 td {
-    border: 1px solid rgba(200,100,0,0.3);
+    border: 1px solid rgba(169,140,245,0.3);
 }
 
 td.description {
@@ -123,7 +123,7 @@ td.description {
 span.eventRedirect {
   cursor: pointer;
   text-decoration: underline;
-  color:#22527b;;
+  color:#22527b;
 }
 span.metadata {
     font-size: 0.8em;
